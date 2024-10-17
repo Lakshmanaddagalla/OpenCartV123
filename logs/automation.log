@@ -1,0 +1,61 @@
+13:05:55.206 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+13:05:55.623 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+13:05:55.643 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+13:05:57.438 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+13:05:57.496 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+13:06:01.005 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+13:06:01.654 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+13:06:01.986 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+13:06:03.083 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***
+13:23:10.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\grouping.xml
+
+13:27:33.563 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\grouping.xml
+
+13:30:54.340 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+13:30:55.002 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+13:30:55.561 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+13:30:55.570 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+13:30:57.699 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+13:30:57.890 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+13:31:00.593 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+13:31:01.245 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+13:31:01.604 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+13:31:02.650 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***
+13:32:14.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\master.xml
+
+13:32:17.927 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+13:32:18.778 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+13:32:19.351 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+13:32:19.354 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+13:32:20.892 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+13:32:20.956 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+13:32:23.554 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+13:32:24.266 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+13:32:24.540 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+13:32:25.576 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***
+13:33:02.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\grouping.xml
+
+13:33:06.393 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+13:33:07.066 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+13:33:07.500 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+13:33:07.504 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+13:33:08.929 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+13:33:08.994 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+13:33:11.830 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+13:33:12.470 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+13:33:12.733 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+13:33:13.646 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***
+13:38:37.719 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+13:38:38.408 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+13:38:38.856 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+13:38:38.861 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+13:38:40.415 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+13:38:40.457 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+13:38:43.289 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+13:38:43.866 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+13:38:44.132 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+13:38:45.022 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***

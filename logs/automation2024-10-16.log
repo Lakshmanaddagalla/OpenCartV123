@@ -1,0 +1,60 @@
+10:32:13.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:32:13.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:32:13.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:32:13.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:32:13.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:32:13.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:32:13.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:32:13.957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--636952233\testng-customsuite.xml
+
+10:32:13.988 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+10:32:14.527 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1fc0053e: 262 ms
+10:32:14.559 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@55f3c410: 31 ms
+10:32:14.611 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@523424b5: 51 ms
+10:32:14.625 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1601e47: 14 ms
+10:32:14.634 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5990e6c5: 9 ms
+10:32:14.635 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56e07a08: 0 ms
+10:32:23.600 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\test-output\testng-failed.xml
+
+10:32:39.612 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\test-output\testng-failed.xml
+
+10:33:22.254 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\test-output\testng-failed.xml
+
+10:34:09.832 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\grouping.xml
+
+10:34:13.985 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+10:34:14.671 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+10:34:15.184 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+10:34:15.187 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+10:34:16.668 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+10:34:16.737 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+10:34:19.317 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+10:34:20.010 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+10:34:20.320 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+10:34:21.217 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***
+22:26:07.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\grouping.xml
+
+22:26:13.576 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+22:26:14.106 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+22:26:14.625 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+22:26:14.630 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+22:26:16.201 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
+22:26:16.282 [main] INFO  testCases.TC001_AccountRegistration - **** Finished TC001_AccountRegistration  ****
+22:26:19.585 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest ***
+22:26:20.056 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Myaccount ***
+22:26:20.357 [main] INFO  testCases.TC002_LoginTest - ***Clicked on Login ***
+22:26:21.316 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest ***
+22:31:06.533 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\OpenCartV12\grouping.xml
+
+22:31:12.377 [main] INFO  testCases.TC001_AccountRegistration - **** Stating TC001_AccountRegistration  ****
+22:31:13.270 [main] INFO  testCases.TC001_AccountRegistration - clicked on myaccount link..
+22:31:13.922 [main] INFO  testCases.TC001_AccountRegistration - clicked on register link..
+22:31:13.928 [main] INFO  testCases.TC001_AccountRegistration - I am  providing details..
+22:31:15.763 [main] INFO  testCases.TC001_AccountRegistration - Validating expected message..
