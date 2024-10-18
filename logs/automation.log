@@ -13,3 +13,11 @@
 2024-10-18 10:22:30 INFO  TC004_SearchProduct:17 - **** Stating TC004_SearchProduct ****
 2024-10-18 10:22:33 INFO  TC004_SearchProduct:22 - ** Clicked login Page ***
 2024-10-18 10:22:41 INFO  TC004_SearchProduct:35 - ** Finished TC004_SearchProduct ***
+2024-10-18 11:38:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\vegulla\OpenCartV123\master.xml
+
+2024-10-18 11:38:42 INFO  TC005_ProductAddToCart:22 - ** Clicked login Page ***
+2024-10-18 11:42:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\vegulla\OpenCartV123\master.xml
+
+2024-10-18 11:42:32 INFO  TC005_ProductAddToCart:22 - ** Clicked login Page ***
